@@ -1,4 +1,4 @@
-# Save this as rope_automator2.py in your F:\Faceswap\Rope directory
+# Save this as rope_automator.py in your F:\Faceswap\Rope directory
 
 import os
 import cv2
